@@ -25,7 +25,7 @@ All modifications and customization were done by me.
 - Live Server (for local preview)  
 
 ## How to Run Locally
-1. Clone the repository: `git clone <repo-url>`  
+1. Clone the repository: `git clone https://github.com/HibahMohammedK/muhammed-aslam-portfolio.git`  
 2. Open the folder in VS Code  
 3. Click **Go Live** (Live Server extension) to preview  
 
